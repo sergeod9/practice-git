@@ -1,3 +1,2 @@
 This is the second chapter in version control practicing.
 This chapter is changed too!
-and changed once more.
